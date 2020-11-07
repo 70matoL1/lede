@@ -1,46 +1,4 @@
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@70matoL1
-70matoL1 /
-lede
-forked from coolsnowwolf/lede
 
-0
-0
-
-    11.8k
-
-Code
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-
-    Settings
-
-lede/.github/workflows/openwrt-ci.yml
-@KFERMercer
-Latest commit aed7fc6 on 6 Aug
-History
-5 contributors
-@KFERMercer
-@AmadeusGhost
-@coolsnowwolf
-@ioioioion
-@fanck0605
-109 lines (89 sloc) 3.3 KB
-# 
-# <https://github.com/KFERMercer/OpenWrt-CI>
-#
-# Copyright (C) 2019 P3TERX
-#
-# Copyright (C) 2020 KFERMercer
-#
 name: OpenWrt-CI
 
 on:
